@@ -4,6 +4,7 @@
         "Name": "Proximity Chat",
         "InternalName": "proximityChat",
         "AssemblyVersion": "1.0.0",
+        "Punchline": "Makes chat channels proximity based",
         "Description": "Allows you to convert chosen chat channels into proximity based ones like say chat.\nIt is achieved by hiding messages on the client side, players without this plugin will still be able to see them.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/RokasKil/dalamud-proximity-chat",
