@@ -1,0 +1,24 @@
+[
+    {
+        "Author": "Speedas",
+        "Name": "Proximity Chat",
+        "InternalName": "proximityChat",
+        "AssemblyVersion": "1.0.0",
+        "Description": "Makes chat channels proximity based",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/RokasKil/dalamud-proximity-chat",
+        "Tags": [
+            "Chat",
+            "Social"
+        ],
+        "CategoryTags": [
+            "Social"
+        ],
+        "DalamudApiLevel": 6,
+        "LoadPriority": 0,
+        "DownloadCount": -1,
+        "DownloadLinkInstall": "https://github.com/RokasKil/dalamud-proximity-chat/releases/download/v1.0.0/ProximityChat.zip",
+        "DownloadLinkTesting": "https://github.com/RokasKil/dalamud-proximity-chat/releases/download/v1.0.0/ProximityChat.zip",
+        "DownloadLinkUpdate": "https://github.com/RokasKil/dalamud-proximity-chat/releases/download/v1.0.0/ProximityChat.zip"
+    }
+]
