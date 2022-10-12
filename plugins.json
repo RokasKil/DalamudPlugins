@@ -3,7 +3,7 @@
         "Author": "Speedas",
         "Name": "Radar Plugin",
         "InternalName": "RadarPlugin",
-        "AssemblyVersion": "0.0.0.1",
+        "AssemblyVersion": "0.0.0.2",
         "Punchline": "A radar plugin used for bot hunting (no stalking).",
         "Description": "A radar plugin used for bot hunting (no stalking).",
         "ApplicableVersion": "any",
