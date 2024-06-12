@@ -1,21 +1,24 @@
 [
     {
         "Author": "Speedas",
-        "Name": "Radar Plugin",
-        "InternalName": "RadarPlugin",
-        "AssemblyVersion": "0.3.0.4",
-        "Punchline": "A radar plugin used for bot hunting (no stalking).",
-        "Description": "A radar plugin used for bot hunting (no stalking).",
+        "Name": "Immersive Character Select",
+        "InternalName": "CharacterSelectBackgroundPlugin",
+        "AssemblyVersion": "0.0.1.0",
+        "Description": "CharacterSelectBackgroundPlugin description",
         "ApplicableVersion": "any",
         "Tags": [
+            "UI"
         ],
-        "CategoryTags": [
-        ],
-        "DalamudApiLevel": 8,
+        "DalamudApiLevel": 9,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
         "LoadPriority": 0,
+        "Punchline": "CharacterSelectBackgroundPlugin punchline",
+        "AcceptsFeedback": true
         "DownloadCount": -1,
-        "DownloadLinkInstall": "http://46.101.96.114/plugins/RadarPlugin.zip",
-        "DownloadLinkTesting": "http://46.101.96.114/plugins/RadarPlugin.zip",
-        "DownloadLinkUpdate": "http://46.101.96.114/plugins/RadarPlugin.zip"
+        "DownloadLinkInstall": "https://github.com/RokasKil/CharacterSelectBackgroundPlugin/releases/download/v0.0.1.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/RokasKil/CharacterSelectBackgroundPlugin/releases/download/v0.0.1.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/RokasKil/CharacterSelectBackgroundPlugin/releases/download/v0.0.1.0/latest.zip"
     }
 ]
