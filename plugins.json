@@ -15,7 +15,7 @@
         "CanUnloadAsync": false,
         "LoadPriority": 0,
         "Punchline": "CharacterSelectBackgroundPlugin punchline",
-        "AcceptsFeedback": true
+        "AcceptsFeedback": true,
         "DownloadCount": -1,
         "DownloadLinkInstall": "https://github.com/RokasKil/CharacterSelectBackgroundPlugin/releases/download/v0.0.1.0/latest.zip",
         "DownloadLinkTesting": "https://github.com/RokasKil/CharacterSelectBackgroundPlugin/releases/download/v0.0.1.0/latest.zip",
