@@ -16,6 +16,7 @@
         "LoadPriority": 0,
         "Punchline": "Allows you to customize the Character Select sceen and escape the aetherial sea void",
         "AcceptsFeedback": true,
+        "IconUrl": "https://raw.githubusercontent.com/RokasKil/CharacterSelectBackgroundPlugin/master/Icon/Icon.png"
         "DownloadCount": -1,
         "DownloadLinkInstall": "https://github.com/RokasKil/CharacterSelectBackgroundPlugin/releases/download/v0.0.2.0/latest.zip",
         "DownloadLinkTesting": "https://github.com/RokasKil/CharacterSelectBackgroundPlugin/releases/download/v0.0.2.0/latest.zip",
