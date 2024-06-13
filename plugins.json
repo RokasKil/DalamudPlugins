@@ -3,22 +3,22 @@
         "Author": "Speedas",
         "Name": "Immersive Character Select",
         "InternalName": "CharacterSelectBackgroundPlugin",
-        "AssemblyVersion": "0.0.1.0",
-        "Description": "CharacterSelectBackgroundPlugin description",
+        "AssemblyVersion": "0.0.2.0",
+        "Description": "Immersive Character Select allows you to switch out the default aetherial sea void background to (almost) anything.\nSupports recording your last visited location or premade presets, per character display setting and even displaying yourself on a mount.",
         "ApplicableVersion": "any",
         "Tags": [
-            "UI"
+        "UI"
         ],
         "DalamudApiLevel": 9,
         "LoadRequiredState": 0,
-        "LoadSync": false,
+        "LoadSync": true,
         "CanUnloadAsync": false,
         "LoadPriority": 0,
-        "Punchline": "CharacterSelectBackgroundPlugin punchline",
+        "Punchline": "Allows you to customize the Character Select sceen and escape the aetherial sea void",
         "AcceptsFeedback": true,
         "DownloadCount": -1,
-        "DownloadLinkInstall": "https://github.com/RokasKil/CharacterSelectBackgroundPlugin/releases/download/v0.0.1.0/latest.zip",
-        "DownloadLinkTesting": "https://github.com/RokasKil/CharacterSelectBackgroundPlugin/releases/download/v0.0.1.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/RokasKil/CharacterSelectBackgroundPlugin/releases/download/v0.0.1.0/latest.zip"
+        "DownloadLinkInstall": "https://github.com/RokasKil/CharacterSelectBackgroundPlugin/releases/download/v0.0.2.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/RokasKil/CharacterSelectBackgroundPlugin/releases/download/v0.0.2.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/RokasKil/CharacterSelectBackgroundPlugin/releases/download/v0.0.2.0/latest.zip"
     }
 ]
